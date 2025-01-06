@@ -48,9 +48,9 @@ ___
 <table style="width:100%" border="2">
 <caption>Data Science projects.</caption>
   <tr>
-    <th>№</th>
-    <th class="first">Project name</th>
-    <th class="first">Type of research</th>
+    <th style="width:3%">№</th>
+    <th style="width:30%">Project name</th>
+    <th style="width:70%">Type of research</th>
   </tr>
   <tr>
     <td>1.</td>
