@@ -46,11 +46,11 @@ ___
 ___
 
 
+<table style="width:100%">
 <caption>Data Science projects.</caption>
-<table style="width:100%" border="2">
   <tr>
     <th style="width:3%">№</th>
-    <th style="width:30%">Project name</th>
+    <th style="width:27%">Project name</th>
     <th style="width:70%">Type of research</th>
   </tr>
   <tr>
