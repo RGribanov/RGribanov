@@ -30,6 +30,7 @@
 - 📚 Курс по Python
 - 📚  Специалист по Data Science
 
+https://github.com/RGribanov/Data_science_projects.git
 
 
 ___
