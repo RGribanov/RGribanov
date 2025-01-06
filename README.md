@@ -45,7 +45,7 @@ ___
 
 ___
 
-<table>
+<table style="width:100%" border="2">
 <caption>Data Science projects.</caption>
   <tr>
     <th>№</th>
