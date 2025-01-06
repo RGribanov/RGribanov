@@ -68,3 +68,9 @@ ___
     <td>Анализ данных</td>
   </tr>
 </table>
+
+___
+| № | Project name | Type of research |
+| ------------- | ------------- | ------------- |
+| 1  | <a href="https://github.com/RGribanov/Data_science_projects/blob/408deafb18ac8e3d58e4d399c117801ea57c79e8/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D0%B5%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2.ipynb">Исследование надежности заемщиков</a>  | Предобработка данных |
+| Content Cell  | Content Cell  | Content Cell  |
