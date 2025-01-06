@@ -45,13 +45,17 @@ ___
 
 ___
 
-
-<table style="width:100%">
+<table style="width:100%" border="2">
 <caption>Data Science projects.</caption>
+  <colgroup>
+    <col style="width: 3%;">
+    <col style="width: 27%;">
+    <col style="width: 70%;">
+  </colgroup>
   <tr>
-    <th style="width:3%">№</th>
-    <th style="width:27%">Project name</th>
-    <th style="width:70%">Type of research</th>
+    <th>№</th>
+    <th>Project name</th>
+    <th>Type of research</th>
   </tr>
   <tr>
     <td>1.</td>
