@@ -45,8 +45,9 @@ ___
 
 ___
 
-<table style="width:100%" border="2">
+
 <caption>Data Science projects.</caption>
+<table style="width:100%" border="2">
   <tr>
     <th style="width:3%">№</th>
     <th style="width:30%">Project name</th>
