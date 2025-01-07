@@ -46,7 +46,7 @@ ___
 ___
 
 <table style="width:100%" border="2">
-<caption>Data Science projects.</caption>
+<caption>Проекты Data Analyst.</caption>
   <colgroup>
     <col style="width: 3%;">
     <col style="width: 27%;">
@@ -54,18 +54,22 @@ ___
   </colgroup>
   <tr>
     <th>№</th>
-    <th>Project name</th>
-    <th>Type of research</th>
+    <th>Проект</th>
+    <th>Тип исследования</th>
   </tr>
   <tr>
     <td>1.</td>
-    <td><a href="https://github.com/RGribanov/Data_science_projects/blob/408deafb18ac8e3d58e4d399c117801ea57c79e8/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D0%B5%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2.ipynb">Исследование надежности заемщиков</a></td>
-    <td>Предобработка данных</td>
+    <td><a href="https://github.com/RGribanov/Data_science_projects/blob/408deafb18ac8e3d58e4d399c117801ea57c79e8/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D0%B5%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2.ipynb">Исследование надежности заемщиков.</a></td>
+    <td>Предобработка и очистка данных. Кредитный отдел банка запросил исследовать, какие факторы влияют на надёжность заёмщика. Необходимо предоставить портрет надёжного заемщика.</td>
   </tr>
   <tr>
     <td>2.</td>
-    <td><a href="https://github.com/RGribanov/Data_science_projects/blob/8e1ad30b8979b5a6cb8e8e81ae2bc7ba345ecff8/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80.ipynb">Исследование объявлений о продаже квартир</a></td>
-    <td>Анализ данных</td>
+    <td><a href="https://github.com/RGribanov/Data_science_projects/blob/8e1ad30b8979b5a6cb8e8e81ae2bc7ba345ecff8/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80.ipynb">Исследование объявлений о продаже квартир.</a></td>
+    <td>Исследовательский анализ данных Необходимо определить параметры, оказывающие наибольшее влияние на оценку стоимости недвижимости.</td>
+  </tr>
+    <tr>
+    <td>3.</td>
+    <td><a href="https://github.com/RGribanov/Data_science_projects/blob/c9a0ce96361aadee197f63db0f1b40b4c54eaad1/%D0%92%D1%8B%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9%20%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%D0%B3%D1%80.ipynb">Выявление закономерностей успешности игр.</a></td>
+    <td>Исследовательский и статистический анализ Необходимо выявить определяющие успешность игры закономерности и для каждого из трех регионов (NA, Europe, JP) выбрать игры для рекламных кампаний.</td>
   </tr>
 </table>
-
