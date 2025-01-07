@@ -39,8 +39,8 @@ ___
 
 ___
 
+<h3 align="center">Проекты Data Analyst.</h3>
 <table style="width:100%" border="2">
-<caption>Проекты Data Analyst.</caption>
   <colgroup>
     <col style="width: 3%;">
     <col style="width: 27%;">
