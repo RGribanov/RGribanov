@@ -17,7 +17,7 @@
 - Создание RPA-роботов: Проекты по автоматизации бизнес-процессов с использованием RPA-технологий, что позволило значительно повысить эффективность работы.
 - Работа с API: Опыт получения данных через API, что обеспечивало интеграцию и автоматизацию процессов.
 - Data Science: В 2023 году успешно завершил программу переподготовки "Специалист по Data Science", что позволило мне углубить знания в области машинного обучения и статистического анализа.
-  
+
 Проекты:
 - ETL-проекты: Реализация ETL-процессов для извлечения данных из 1С и веб-сайтов, включая использование BeautifulSoup и Selenium для веб-скрапинга.
 - Создание RPA-роботов: Автоматизация рутинных задач с помощью RPA, что позволило сократить время выполнения процессов.
@@ -58,27 +58,27 @@ ___
   </tr>
   <tr>
     <td>1.</td>
-    <td><a href="https://github.com/RGribanov/Data_science_projects/blob/408deafb18ac8e3d58e4d399c117801ea57c79e8/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D0%B5%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2.ipynb">Исследование надежности заемщиков.</a></td>
+    <td><a href="https://github.com/RGribanov/Data_science_projects/tree/07ec99c11a9ff615c0e1a1ae8f5b5e41c70a8632/Analysis_of_the_reliability_of_borrowers">Исследование надежности заемщиков.</a></td>
     <td>Предобработка и очистка данных. Кредитный отдел банка запросил исследовать, какие факторы влияют на надёжность заёмщика. Необходимо предоставить портрет надёжного заемщика.</td>
   </tr>
   <tr>
     <td>2.</td>
-    <td><a href="https://github.com/RGribanov/Data_science_projects/blob/8e1ad30b8979b5a6cb8e8e81ae2bc7ba345ecff8/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80.ipynb">Исследование объявлений о продаже квартир.</a></td>
+    <td><a href="https://github.com/RGribanov/Data_science_projects/tree/07ec99c11a9ff615c0e1a1ae8f5b5e41c70a8632/Long_term_mobility_market_analysis">Исследование объявлений о продаже квартир.</a></td>
     <td>Исследовательский анализ данных Необходимо определить параметры, оказывающие наибольшее влияние на оценку стоимости недвижимости.</td>
   </tr>
     <tr>
     <td>3.</td>
-    <td><a href="https://github.com/RGribanov/Data_science_projects/blob/c9a0ce96361aadee197f63db0f1b40b4c54eaad1/%D0%92%D1%8B%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9%20%D1%83%D1%81%D0%BF%D0%B5%D1%88%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B8%D0%B3%D1%80.ipynb">Выявление закономерностей успешности игр.</a></td>
+    <td><a href="https://github.com/RGribanov/Data_science_projects/tree/07ec99c11a9ff615c0e1a1ae8f5b5e41c70a8632/Patterns_of_success_games">Выявление закономерностей успешности игр.</a></td>
     <td>Исследовательский и статистический анализ Необходимо выявить определяющие успешность игры закономерности и для каждого из трех регионов (NA, Europe, JP) выбрать игры для рекламных кампаний.</td>
   </tr>
     <tr>
     <td>4.</td>
-    <td><a href="https://github.com/RGribanov/Data_science_projects/blob/b2115db7d59acaed204985f343cf4f4ba5931440/%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%B5%D1%80%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%82%D0%B0%D1%80%D0%B8%D1%84%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B0%20%D1%81%D0%BE%D1%82%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0.ipynb">Определение перспективного тарифного плана сотового оператора.</a></td>
+    <td><a href="https://github.com/RGribanov/Data_science_projects/tree/07ec99c11a9ff615c0e1a1ae8f5b5e41c70a8632/Determination_of_a_prospective_tariff">Определение перспективного тарифного плана сотового оператора.</a></td>
     <td>Статистический анализ данных. Необходимо построить модель для задачи классификации, которая выберет более перспективный тариф, для маркетинговой кампании.</td>
   </tr>
     <tr>
     <td>5.</td>
-    <td><a href="https://github.com/RGribanov/Data_science_projects/blob/ad047e51e55479d400a55817485cdf3a04862829/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0.ipynb">Прогнозирование оттока клиентов банка.</a></td>
+    <td><a href="https://github.com/RGribanov/Data_science_projects/tree/07ec99c11a9ff615c0e1a1ae8f5b5e41c70a8632/Forecasting_client_bank%20outflow">Прогнозирование оттока клиентов банка.</a></td>
     <td>Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет.</td>
   </tr>
 </table>
